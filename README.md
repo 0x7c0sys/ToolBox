@@ -16,8 +16,13 @@ https://www.hirensbootcd.org/ - Community Edition of the famouse live CD
 
 https://github.com/ChrisTitusTech/win10script
 
+   ## Windows Tweaks
+   
+   ##### PC's not appearing on the network - activate SMB Protocol https://www.wintips.org/fix-windows-10-network-computers-not-showing/
 
-   ## Installing RTL8821CE Network Controller
+
+
+   ## Installing RTL8821CE Network Controller 
  
    ###### Method #1
  
