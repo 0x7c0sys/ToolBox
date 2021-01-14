@@ -21,6 +21,10 @@ https://github.com/ChrisTitusTech/win10script
    ##### PC's not appearing on the network - activate SMB Protocol https://www.wintips.org/fix-windows-10-network-computers-not-showing/
 
 
+   ## Ubuntu Server Partition Scheme
+   https://www.smarthomebeginner.com/ubuntu-server-partition-scheme-guide/
+
+
 
    ## Installing RTL8821CE Network Controller 
  
